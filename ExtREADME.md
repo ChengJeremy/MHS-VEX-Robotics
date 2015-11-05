@@ -3,3 +3,6 @@ I would thus suggest Abhinav Madahar to copy this data structure and create a pr
 
 Or if you guys are fine with it, we can continue posting our data here. 
 I'm fine either way. 
+
+Feel free to comment your thoughts on this matter by clicking on the short commit description ^. 
+Or you can discuss this on the facebook page. 
